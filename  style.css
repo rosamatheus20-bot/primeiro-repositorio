@@ -1,0 +1,22 @@
+imhg  { 
+         width:  300xp; 
+=
+ 
+header { 
+     background-color:  #000000;
+     color:#00ffff;
+       text-align: center;
+       max-width: 800px;
+       margin: 0 auto;
+       padding: 16px;
+ )
+ 
+ main  { 
+           background-color: darkgray;
+           color: aquamarine;  
+          }
+
+             .artigo-autor { 
+                font-weight: bold;
+             }
+              
